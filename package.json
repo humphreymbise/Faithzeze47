@@ -1,6 +1,6 @@
 {
     "description": "faith-sessions",
-    "main": "./zezetech.js",
+    "main": "./toputech.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
