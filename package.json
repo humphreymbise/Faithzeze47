@@ -1,14 +1,14 @@
 {
     "description": "faith-sessions",
-    "main": "./toputech.js",
+    "main": "./zezetech.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node toputech.js"
+    "start": "node zezetech.js"
   },
-  "author": "Topu Tech",
+  "author": "Zeze Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
