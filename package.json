@@ -1,12 +1,12 @@
 {
     "description": "faith-sessions",
-    "main": "./zezetech.js",
+    "main": "./index.html",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node zezetech.js"
+    "start": "node index.html"
   },
   "author": "Zeze Tech",
   "license": "GPL-3.0 license",
